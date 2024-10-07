@@ -3,7 +3,7 @@ package com.kodbooks.services;
 
 import java.util.List;
 
-import com.kodbooks.entities.Post;
+
 
 public interface PostService {
 
